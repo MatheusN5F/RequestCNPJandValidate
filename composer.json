@@ -1,0 +1,16 @@
+{
+    "name": "matheusn5f/privatesite",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "Src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MatheusN5F"
+        }
+    ],
+    "require": {}
+}
